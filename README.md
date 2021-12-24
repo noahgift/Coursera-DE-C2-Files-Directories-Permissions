@@ -1,7 +1,7 @@
 # Coursera-DE-C2-Files-Directories-Permissions
 Work with the filesystem and permissions
 
-## Goal:   Learn the basics of shell piping
+## Goal:   Learn the basics of shell permissions
 
 Practice using file permissions to set execution bit
 
